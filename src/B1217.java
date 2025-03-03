@@ -10,5 +10,7 @@ public class B1217{
         member = input.nextInt();
 
         //System.out.println("asset = " + asset + "\n" + "member = " + member + "\n");
+
+
     }
 }
