@@ -1,4 +1,4 @@
-//(1 ≤ m ≤ n ≤ 101000, m과 n은 10진수 정수) 유효값 체크하기
+package JAVA;//(1 ≤ m ≤ n ≤ 101000, m과 n은 10진수 정수) 유효값 체크하기
 //
 
 import java.util.Scanner;
