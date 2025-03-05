@@ -30,7 +30,7 @@ public class B2420 {
 
 //맞다는 코드, 뭐가 다른지 나중에 살피기
 //import java.io.*;
-//        import java.util.*;
+//import java.util.*;
 //
 //public class Main {
 //    public static void main(String[] args) throws IOException {
