@@ -15,4 +15,4 @@ public class B2420_2 {
 }
 
 //throw IOException은 왜 해야 하는가
-//Long.parseLong은 뭔가
+//Long.parseLong은 뭔가에 대해
