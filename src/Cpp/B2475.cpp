@@ -21,7 +21,7 @@ int main(){
         cin >> input[i];
     }
 
-    for(int i=0; i<5; i++){
+    for(int i=0; i<sizeof(input)/sizeof(int); i++){
         //cout << "pow: " << pow(input[i], 2) << endl;
         squareSum += pow(input[i], 2);
         //cout << "squareSum: " << squareSum << endl;
