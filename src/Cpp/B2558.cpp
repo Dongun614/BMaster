@@ -17,7 +17,7 @@ int main(){
         cout << "You input invalid input" << endl;
         return 0;
     }
-    //protected
+    
     cout << A+B << endl;
 
     return 0;
